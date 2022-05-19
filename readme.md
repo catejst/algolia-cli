@@ -1,5 +1,7 @@
 # Algolia CLI
 
+#New HL
+
 A Node CLI tool that makes it easy to perform common data manipulations and interactions with your Algolia app or indices.
 
 - [Requirements](#requirements)
